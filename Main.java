@@ -7,6 +7,7 @@ public class Main {
         int i=n-1-1+n;
         System.out.println(i%n);
         System.out.println("changed");
+        System.out.println("chnaged again");
 
     }
     
