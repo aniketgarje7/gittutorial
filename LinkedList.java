@@ -15,6 +15,7 @@ public class LinkedList {
             
             tail.next = newNode;
 //             did some changes for demo git learnig;
+//             agian did some changes on the gitNew branch;
             
             newNode.next = head;
             tail = tail.next;
