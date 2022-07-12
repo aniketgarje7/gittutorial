@@ -14,6 +14,7 @@ public class LinkedList {
         else{
             
             tail.next = newNode;
+//             did some changes for demo git learnig;
             
             newNode.next = head;
             tail = tail.next;
