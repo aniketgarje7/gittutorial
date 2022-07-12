@@ -11,6 +11,7 @@ public class Square extends Box {
         super(9);
         this.side = side;
         System.out.println("after the super");
+        System.out.println("some changes did in master branch");
         
     }
     public Square(){
